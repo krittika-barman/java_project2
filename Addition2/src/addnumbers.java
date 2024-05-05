@@ -3,8 +3,8 @@ public class addnumbers {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		int a = 200;
-		int b = 100;
+		int a = 400;
+		int b = 500;
 		int c = a+b;
 		System.out.println("sum of a and b is :"+ c);
 	}
